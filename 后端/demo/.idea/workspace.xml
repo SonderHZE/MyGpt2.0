@@ -1,0 +1,1351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="686c96bb-7999-4e94-9bcc-0d967f4be4e2" name="更改" comment="简单demo">
+      <change beforePath="$PROJECT_DIR$/../../llm_learning/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../llm_learning/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../llm_learning/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../llm_learning/chapter1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../llm_learning/chapter1/demo-chapter1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../llm_learning/chapter1/main_simple.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../llm_learning/chapter1/main_stream.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../llm_learning/chapter2/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../llm_learning/chapter2/custom-loader/aliyun_doc_loader.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../llm_learning/chapter2/custom-loader/diff_docs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../llm_learning/chapter2/custom-loader/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../llm_learning/chapter2/data/doc_urls.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../llm_learning/chapter2/demo-chapter2.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../llm_learning/chapter2/load-from-excel/diff_docs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../llm_learning/chapter2/load-from-excel/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../llm_learning/chapter2/long-docs/aliyun_doc_loader.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../llm_learning/chapter2/long-docs/diff_docs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../llm_learning/chapter2/long-docs/doc_spliter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../llm_learning/chapter2/long-docs/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../llm_learning/chapter2/mvp/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../llm_learning/chapter2/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../llm_learning/chapter2/utils/ds_util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../llm_learning/chapter3/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../llm_learning/chapter3/demo-chapter3.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../llm_learning/chapter3/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../llm_learning/chapter3/search-with-tool.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../llm_learning/chapter4/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../llm_learning/chapter4/demo-chapter4.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../llm_learning/chapter4/more_tools/aliyun_resources.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../llm_learning/chapter4/more_tools/search-with-tools.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../llm_learning/chapter4/refactor_with_langchain/answer-with-tools.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../llm_learning/chapter4/refactor_with_langchain/tools/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../llm_learning/chapter4/refactor_with_langchain/tools/aliyun_resource_tool.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../llm_learning/chapter4/refactor_with_langchain/tools/auto_coding_tool.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../llm_learning/chapter4/refactor_with_langchain/tools/service_search_tool.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../llm_learning/chapter4/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../llm_learning/cloudapi/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../llm_learning/cloudapi/aliyun_resource_agent.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../llm_learning/cloudapi/demo-cloudapi.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../llm_learning/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/.bin/katex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/.bin/katex.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/.bin/katex.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/.bin/markdown-it" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/.bin/markdown-it.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/.bin/markdown-it.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/.bin/marked" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/.bin/marked.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/.bin/marked.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/.package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/argparse/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/argparse/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/argparse/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/argparse/argparse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/argparse/lib/sub.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/argparse/lib/textwrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/argparse/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/clone/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/clone/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/clone/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/clone/clone.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/clone/clone.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/clone/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/crypto-js/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/crypto-js/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/crypto-js/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/crypto-js/aes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/crypto-js/blowfish.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/crypto-js/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/crypto-js/cipher-core.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/crypto-js/core.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/crypto-js/crypto-js.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/crypto-js/docs/QuickStartGuide.wiki" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/crypto-js/enc-base64.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/crypto-js/enc-base64url.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/crypto-js/enc-hex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/crypto-js/enc-latin1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/crypto-js/enc-utf16.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/crypto-js/enc-utf8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/crypto-js/evpkdf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/crypto-js/format-hex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/crypto-js/format-openssl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/crypto-js/hmac-md5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/crypto-js/hmac-ripemd160.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/crypto-js/hmac-sha1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/crypto-js/hmac-sha224.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/crypto-js/hmac-sha256.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/crypto-js/hmac-sha3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/crypto-js/hmac-sha384.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/crypto-js/hmac-sha512.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/crypto-js/hmac.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/crypto-js/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/crypto-js/lib-typedarrays.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/crypto-js/md5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/crypto-js/mode-cfb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/crypto-js/mode-ctr-gladman.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/crypto-js/mode-ctr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/crypto-js/mode-ecb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/crypto-js/mode-ofb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/crypto-js/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/crypto-js/pad-ansix923.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/crypto-js/pad-iso10126.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/crypto-js/pad-iso97971.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/crypto-js/pad-nopadding.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/crypto-js/pad-pkcs7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/crypto-js/pad-zeropadding.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/crypto-js/pbkdf2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/crypto-js/rabbit-legacy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/crypto-js/rabbit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/crypto-js/rc4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/crypto-js/ripemd160.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/crypto-js/sha1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/crypto-js/sha224.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/crypto-js/sha256.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/crypto-js/sha3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/crypto-js/sha384.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/crypto-js/sha512.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/crypto-js/tripledes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/crypto-js/x64-core.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/decode.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/decode.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/decode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/decode.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/decode_codepoint.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/decode_codepoint.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/decode_codepoint.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/decode_codepoint.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/encode.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/encode.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/encode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/encode.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/escape.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/escape.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/escape.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/escape.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/esm/decode.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/esm/decode.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/esm/decode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/esm/decode.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/esm/decode_codepoint.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/esm/decode_codepoint.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/esm/decode_codepoint.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/esm/decode_codepoint.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/esm/encode.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/esm/encode.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/esm/encode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/esm/encode.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/esm/escape.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/esm/escape.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/esm/escape.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/esm/escape.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/esm/generated/decode-data-html.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/esm/generated/decode-data-html.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/esm/generated/decode-data-html.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/esm/generated/decode-data-html.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/esm/generated/decode-data-xml.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/esm/generated/decode-data-xml.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/esm/generated/decode-data-xml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/esm/generated/decode-data-xml.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/esm/generated/encode-html.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/esm/generated/encode-html.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/esm/generated/encode-html.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/esm/generated/encode-html.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/esm/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/esm/index.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/esm/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/esm/index.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/esm/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/generated/decode-data-html.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/generated/decode-data-html.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/generated/decode-data-html.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/generated/decode-data-html.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/generated/decode-data-xml.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/generated/decode-data-xml.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/generated/decode-data-xml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/generated/decode-data-xml.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/generated/encode-html.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/generated/encode-html.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/generated/encode-html.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/generated/encode-html.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/index.d.ts.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/lib/index.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/entities/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/deprecated.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/docs/api.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/docs/building-testing.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/docs/css-classes-reference.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/docs/index.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/docs/language-contribution.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/docs/language-guide.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/docs/language-requests.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/docs/line-numbers.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/docs/maintainers-guide.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/docs/reference.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/docs/style-guide.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/highlight.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/1c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/abnf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/accesslog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/actionscript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/ada.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/angelscript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/apache.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/applescript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/arcade.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/arduino.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/armasm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/asciidoc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/aspectj.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/autohotkey.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/autoit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/avrasm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/awk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/axapta.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/bash.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/basic.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/bnf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/brainfuck.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/cal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/capnproto.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/ceylon.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/clean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/clojure-repl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/clojure.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/cmake.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/coffeescript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/coq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/cos.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/cpp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/crmsh.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/crystal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/cs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/csp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/css.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/dart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/delphi.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/diff.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/django.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/dns.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/dockerfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/dos.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/dsconfig.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/dts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/dust.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/ebnf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/elixir.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/elm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/erb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/erlang-repl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/erlang.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/excel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/fix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/flix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/fortran.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/fsharp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/gams.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/gauss.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/gcode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/gherkin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/glsl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/gml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/go.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/golo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/gradle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/groovy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/haml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/handlebars.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/haskell.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/haxe.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/hsp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/htmlbars.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/http.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/hy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/inform7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/ini.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/irpf90.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/isbl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/java.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/javascript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/jboss-cli.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/json.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/julia-repl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/julia.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/kotlin.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/lasso.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/ldif.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/leaf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/less.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/lisp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/livecodeserver.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/livescript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/llvm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/lsl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/lua.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/makefile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/markdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/mathematica.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/matlab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/maxima.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/mel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/mercury.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/mipsasm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/mizar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/mojolicious.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/monkey.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/moonscript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/n1ql.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/nginx.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/nimrod.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/nix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/nsis.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/objectivec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/ocaml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/openscad.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/oxygene.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/parser3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/perl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/pf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/pgsql.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/php.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/plaintext.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/pony.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/powershell.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/processing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/profile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/prolog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/properties.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/protobuf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/puppet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/purebasic.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/python.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/q.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/qml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/r.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/reasonml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/rib.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/roboconf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/routeros.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/rsl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/ruby.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/ruleslanguage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/rust.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/sas.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/scala.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/scheme.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/scilab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/scss.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/shell.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/smali.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/smalltalk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/sml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/sqf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/sql.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/stan.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/stata.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/step21.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/stylus.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/subunit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/swift.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/taggerscript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/tap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/tcl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/tex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/thrift.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/tp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/twig.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/typescript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/vala.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/vbnet.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/vbscript-html.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/vbscript.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/verilog.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/vhdl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/vim.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/x86asm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/xl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/xml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/xquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/yaml.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/lib/languages/zephir.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/a11y-dark.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/a11y-light.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/agate.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/an-old-hope.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/androidstudio.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/arduino-light.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/arta.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/ascetic.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/atelier-cave-dark.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/atelier-cave-light.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/atelier-dune-dark.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/atelier-dune-light.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/atelier-estuary-dark.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/atelier-estuary-light.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/atelier-forest-dark.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/atelier-forest-light.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/atelier-heath-dark.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/atelier-heath-light.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/atelier-lakeside-dark.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/atelier-lakeside-light.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/atelier-plateau-dark.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/atelier-plateau-light.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/atelier-savanna-dark.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/atelier-savanna-light.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/atelier-seaside-dark.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/atelier-seaside-light.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/atelier-sulphurpool-dark.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/atelier-sulphurpool-light.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/atom-one-dark-reasonable.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/atom-one-dark.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/atom-one-light.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/brown-paper.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/brown-papersq.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/codepen-embed.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/color-brewer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/darcula.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/dark.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/darkula.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/default.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/docco.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/dracula.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/far.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/foundation.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/github-gist.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/github.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/gml.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/googlecode.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/gradient-dark.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/grayscale.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/gruvbox-dark.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/gruvbox-light.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/hopscotch.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/hybrid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/idea.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/ir-black.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/isbl-editor-dark.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/isbl-editor-light.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/kimbie.dark.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/kimbie.light.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/lightfair.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/magula.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/mono-blue.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/monokai-sublime.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/monokai.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/night-owl.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/nord.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/obsidian.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/ocean.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/paraiso-dark.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/paraiso-light.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/pojoaque.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/pojoaque.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/purebasic.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/qtcreator_dark.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/qtcreator_light.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/railscasts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/rainbow.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/routeros.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/school-book.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/school-book.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/shades-of-purple.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/solarized-dark.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/solarized-light.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/sunburst.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/tomorrow-night-blue.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/tomorrow-night-bright.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/tomorrow-night-eighties.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/tomorrow-night.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/tomorrow.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/vs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/vs2015.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/xcode.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/xt256.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/scss/zenburn.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/a11y-dark.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/a11y-light.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/agate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/an-old-hope.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/androidstudio.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/arduino-light.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/arta.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/ascetic.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/atelier-cave-dark.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/atelier-cave-light.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/atelier-dune-dark.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/atelier-dune-light.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/atelier-estuary-dark.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/atelier-estuary-light.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/atelier-forest-dark.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/atelier-forest-light.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/atelier-heath-dark.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/atelier-heath-light.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/atelier-lakeside-dark.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/atelier-lakeside-light.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/atelier-plateau-dark.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/atelier-plateau-light.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/atelier-savanna-dark.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/atelier-savanna-light.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/atelier-seaside-dark.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/atelier-seaside-light.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/atelier-sulphurpool-dark.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/atelier-sulphurpool-light.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/atom-one-dark-reasonable.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/atom-one-dark.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/atom-one-light.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/brown-paper.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/brown-papersq.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/codepen-embed.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/color-brewer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/darcula.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/dark.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/darkula.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/default.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/docco.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/dracula.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/far.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/foundation.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/github-gist.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/github.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/gml.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/googlecode.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/gradient-dark.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/grayscale.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/gruvbox-dark.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/gruvbox-light.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/hopscotch.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/hybrid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/idea.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/ir-black.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/isbl-editor-dark.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/isbl-editor-light.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/kimbie.dark.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/kimbie.light.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/lightfair.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/magula.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/mono-blue.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/monokai-sublime.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/monokai.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/night-owl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/nord.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/obsidian.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/ocean.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/paraiso-dark.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/paraiso-light.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/pojoaque.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/pojoaque.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/purebasic.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/qtcreator_dark.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/qtcreator_light.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/railscasts.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/rainbow.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/routeros.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/school-book.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/school-book.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/shades-of-purple.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/solarized-dark.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/solarized-light.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/sunburst.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/tomorrow-night-blue.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/tomorrow-night-bright.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/tomorrow-night-eighties.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/tomorrow-night.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/tomorrow.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/vs.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/vs2015.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/xcode.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/xt256.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/highlight.js/styles/zenburn.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/cli.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/contrib/auto-render.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_AMS-Regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_AMS-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_AMS-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_AMS-Regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Caligraphic-Bold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Caligraphic-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Caligraphic-Bold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Caligraphic-Bold.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Caligraphic-Regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Caligraphic-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Caligraphic-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Caligraphic-Regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Fraktur-Bold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Fraktur-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Fraktur-Bold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Fraktur-Bold.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Fraktur-Regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Fraktur-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Fraktur-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Fraktur-Regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Main-Bold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Main-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Main-Bold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Main-Bold.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Main-Italic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Main-Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Main-Italic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Main-Italic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Main-Regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Main-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Main-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Main-Regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Math-BoldItalic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Math-BoldItalic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Math-BoldItalic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Math-BoldItalic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Math-Italic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Math-Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Math-Italic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Math-Italic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Math-Regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Math-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Math-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Math-Regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_SansSerif-Bold.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_SansSerif-Bold.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_SansSerif-Bold.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_SansSerif-Bold.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_SansSerif-Italic.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_SansSerif-Italic.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_SansSerif-Italic.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_SansSerif-Italic.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_SansSerif-Regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_SansSerif-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_SansSerif-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_SansSerif-Regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Script-Regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Script-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Script-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Script-Regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Size1-Regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Size1-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Size1-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Size1-Regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Size2-Regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Size2-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Size2-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Size2-Regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Size3-Regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Size3-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Size3-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Size3-Regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Size4-Regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Size4-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Size4-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Size4-Regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Typewriter-Regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Typewriter-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Typewriter-Regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/fonts/KaTeX_Typewriter-Regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/katex.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/dist/katex.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/katex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/src/Lexer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/src/Options.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/src/ParseError.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/src/Parser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/src/Settings.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/src/Style.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/src/buildCommon.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/src/buildHTML.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/src/buildMathML.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/src/buildTree.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/src/delimiter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/src/domTree.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/src/environments.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/src/fontMetrics.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/src/fontMetricsData.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/src/functions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/src/mathMLTree.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/src/parseData.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/src/parseTree.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/src/symbols.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/katex/src/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/linkify-it/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/linkify-it/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/linkify-it/build/index.cjs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/linkify-it/index.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/linkify-it/lib/re.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/linkify-it/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-abbr/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-abbr/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-abbr/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-abbr/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-abbr/dist/markdown-it-abbr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-abbr/dist/markdown-it-abbr.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-abbr/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-abbr/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-deflist/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-deflist/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-deflist/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-deflist/dist/markdown-it-deflist.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-deflist/dist/markdown-it-deflist.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-deflist/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-deflist/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-emoji/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-emoji/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-emoji/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-emoji/dist/markdown-it-emoji-light.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-emoji/dist/markdown-it-emoji-light.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-emoji/dist/markdown-it-emoji.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-emoji/dist/markdown-it-emoji.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-emoji/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-emoji/lib/data/full.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-emoji/lib/data/light.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-emoji/lib/data/shortcuts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-emoji/lib/normalize_opts.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-emoji/lib/render.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-emoji/lib/replace.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-emoji/light.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-emoji/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-footnote/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-footnote/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-footnote/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-footnote/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-footnote/dist/markdown-it-footnote.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-footnote/dist/markdown-it-footnote.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-footnote/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-footnote/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-ins/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-ins/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-ins/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-ins/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-ins/dist/markdown-it-ins.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-ins/dist/markdown-it-ins.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-ins/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-ins/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-katex/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-katex/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-katex/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-katex/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-katex/browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-katex/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-katex/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-katex/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-katex/test/all.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-katex/test/fixtures/breaking.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-katex/test/fixtures/default.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-mark/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-mark/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-mark/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-mark/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-mark/dist/markdown-it-mark.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-mark/dist/markdown-it-mark.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-mark/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-mark/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-sub/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-sub/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-sub/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-sub/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-sub/dist/markdown-it-sub.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-sub/dist/markdown-it-sub.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-sub/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-sub/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-sup/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-sup/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-sup/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-sup/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-sup/dist/markdown-it-sup.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-sup/dist/markdown-it-sup.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-sup/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-sup/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-task-lists/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-task-lists/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-task-lists/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-task-lists/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-task-lists/dist/markdown-it-task-lists.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-task-lists/dist/markdown-it-task-lists.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-task-lists/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-task-lists/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-task-lists/test/fixtures/bullet.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-task-lists/test/fixtures/dirty.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-task-lists/test/fixtures/mixed-nested.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-task-lists/test/fixtures/ordered.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-task-lists/test/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-toc-and-anchor/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-toc-and-anchor/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-toc-and-anchor/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-toc-and-anchor/dist/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-toc-and-anchor/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it-toc-and-anchor/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/bin/markdown-it.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/dist/index.cjs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/dist/markdown-it.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/dist/markdown-it.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/index.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/lib/common/html_blocks.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/lib/common/html_re.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/lib/common/utils.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/lib/helpers/index.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/lib/helpers/parse_link_destination.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/lib/helpers/parse_link_label.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/lib/helpers/parse_link_title.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/lib/index.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/lib/parser_block.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/lib/parser_core.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/lib/parser_inline.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/lib/presets/commonmark.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/lib/presets/default.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/lib/presets/zero.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/lib/renderer.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/lib/ruler.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/lib/rules_block/blockquote.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/lib/rules_block/code.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/lib/rules_block/fence.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/lib/rules_block/heading.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/lib/rules_block/hr.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/lib/rules_block/html_block.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/lib/rules_block/lheading.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/lib/rules_block/list.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/lib/rules_block/paragraph.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/lib/rules_block/reference.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/lib/rules_block/state_block.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/lib/rules_block/table.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/lib/rules_core/block.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/lib/rules_core/inline.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/lib/rules_core/linkify.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/lib/rules_core/normalize.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/lib/rules_core/replacements.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/lib/rules_core/smartquotes.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/lib/rules_core/state_core.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/lib/rules_core/text_join.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/lib/rules_inline/autolink.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/lib/rules_inline/backticks.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/lib/rules_inline/balance_pairs.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/lib/rules_inline/emphasis.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/lib/rules_inline/entity.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/lib/rules_inline/escape.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/lib/rules_inline/fragments_join.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/lib/rules_inline/html_inline.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/lib/rules_inline/image.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/lib/rules_inline/link.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/lib/rules_inline/linkify.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/lib/rules_inline/newline.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/lib/rules_inline/state_inline.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/lib/rules_inline/strikethrough.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/lib/rules_inline/text.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/lib/token.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/markdown-it/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/marked/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/marked/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/marked/bin/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/marked/bin/marked.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/marked/lib/marked.cjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/marked/lib/marked.cjs.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/marked/lib/marked.d.cts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/marked/lib/marked.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/marked/lib/marked.esm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/marked/lib/marked.esm.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/marked/lib/marked.umd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/marked/lib/marked.umd.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/marked/man/marked.1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/marked/man/marked.1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/marked/marked.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/marked/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/match-at/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/match-at/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/match-at/lib/__tests__/matchAt-test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/match-at/lib/matchAt.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/match-at/lib/matchAt.js.flow" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/match-at/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/mdurl/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/mdurl/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/mdurl/build/index.cjs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/mdurl/index.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/mdurl/lib/decode.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/mdurl/lib/encode.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/mdurl/lib/format.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/mdurl/lib/parse.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/mdurl/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/punycode.js/LICENSE-MIT.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/punycode.js/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/punycode.js/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/punycode.js/punycode.es6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/punycode.js/punycode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/sprintf-js/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/sprintf-js/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/sprintf-js/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/sprintf-js/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/sprintf-js/demo/angular.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/sprintf-js/dist/angular-sprintf.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/sprintf-js/dist/angular-sprintf.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/sprintf-js/dist/angular-sprintf.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/sprintf-js/dist/sprintf.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/sprintf-js/dist/sprintf.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/sprintf-js/dist/sprintf.min.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/sprintf-js/gruntfile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/sprintf-js/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/sprintf-js/src/angular-sprintf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/sprintf-js/src/sprintf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/sprintf-js/test/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/uc.micro/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/uc.micro/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/uc.micro/build/index.cjs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/uc.micro/categories/Cc/regex.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/uc.micro/categories/Cf/regex.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/uc.micro/categories/P/regex.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/uc.micro/categories/S/regex.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/uc.micro/categories/Z/regex.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/uc.micro/index.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/uc.micro/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/uc.micro/properties/Any/regex.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/unorm/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/unorm/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/unorm/lib/unorm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/unorm/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/uslug/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/uslug/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/uslug/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/uslug/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/uslug/lib/L.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/uslug/lib/M.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/uslug/lib/N.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/uslug/lib/Z.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/uslug/lib/uslug.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/uslug/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/uslug/test/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/dist/vue-markdown.common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/dist/vue-markdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/.bin/markdown-it" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/.bin/markdown-it.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/.bin/markdown-it.ps1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/argparse/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/argparse/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/argparse/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/argparse/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/argparse/lib/action.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/argparse/lib/action/append.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/argparse/lib/action/append/constant.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/argparse/lib/action/count.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/argparse/lib/action/help.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/argparse/lib/action/store.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/argparse/lib/action/store/constant.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/argparse/lib/action/store/false.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/argparse/lib/action/store/true.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/argparse/lib/action/subparsers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/argparse/lib/action/version.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/argparse/lib/action_container.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/argparse/lib/argparse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/argparse/lib/argument/error.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/argparse/lib/argument/exclusive.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/argparse/lib/argument/group.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/argparse/lib/argument_parser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/argparse/lib/const.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/argparse/lib/help/added_formatters.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/argparse/lib/help/formatter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/argparse/lib/namespace.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/argparse/lib/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/argparse/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/entities/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/entities/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/entities/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/entities/lib/decode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/entities/lib/decode_codepoint.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/entities/lib/encode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/entities/maps/decode.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/entities/maps/entities.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/entities/maps/legacy.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/entities/maps/xml.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/entities/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/entities/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/entities/test/mocha.opts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/entities/test/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/linkify-it/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/linkify-it/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/linkify-it/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/linkify-it/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/linkify-it/lib/re.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/linkify-it/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/markdown-it/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/markdown-it/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/markdown-it/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/markdown-it/bin/markdown-it.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/markdown-it/dist/markdown-it.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/markdown-it/dist/markdown-it.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/markdown-it/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/markdown-it/lib/common/entities.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/markdown-it/lib/common/html_blocks.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/markdown-it/lib/common/html_re.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/markdown-it/lib/common/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/markdown-it/lib/helpers/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/markdown-it/lib/helpers/parse_link_destination.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/markdown-it/lib/helpers/parse_link_label.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/markdown-it/lib/helpers/parse_link_title.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/markdown-it/lib/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/markdown-it/lib/parser_block.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/markdown-it/lib/parser_core.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/markdown-it/lib/parser_inline.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/markdown-it/lib/presets/commonmark.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/markdown-it/lib/presets/default.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/markdown-it/lib/presets/zero.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/markdown-it/lib/renderer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/markdown-it/lib/ruler.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/markdown-it/lib/rules_block/blockquote.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/markdown-it/lib/rules_block/code.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/markdown-it/lib/rules_block/fence.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/markdown-it/lib/rules_block/heading.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/markdown-it/lib/rules_block/hr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/markdown-it/lib/rules_block/html_block.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/markdown-it/lib/rules_block/lheading.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/markdown-it/lib/rules_block/list.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/markdown-it/lib/rules_block/paragraph.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/markdown-it/lib/rules_block/reference.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/markdown-it/lib/rules_block/state_block.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/markdown-it/lib/rules_block/table.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/markdown-it/lib/rules_core/block.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/markdown-it/lib/rules_core/inline.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/markdown-it/lib/rules_core/linkify.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/markdown-it/lib/rules_core/normalize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/markdown-it/lib/rules_core/replacements.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/markdown-it/lib/rules_core/smartquotes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/markdown-it/lib/rules_core/state_core.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/markdown-it/lib/rules_inline/autolink.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/markdown-it/lib/rules_inline/backticks.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/markdown-it/lib/rules_inline/balance_pairs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/markdown-it/lib/rules_inline/emphasis.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/markdown-it/lib/rules_inline/entity.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/markdown-it/lib/rules_inline/escape.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/markdown-it/lib/rules_inline/html_inline.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/markdown-it/lib/rules_inline/image.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/markdown-it/lib/rules_inline/link.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/markdown-it/lib/rules_inline/newline.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/markdown-it/lib/rules_inline/state_inline.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/markdown-it/lib/rules_inline/strikethrough.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/markdown-it/lib/rules_inline/text.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/markdown-it/lib/rules_inline/text_collapse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/markdown-it/lib/token.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/markdown-it/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/mdurl/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/mdurl/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/mdurl/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/mdurl/decode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/mdurl/encode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/mdurl/format.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/mdurl/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/mdurl/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/mdurl/parse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/uc.micro/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/uc.micro/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/uc.micro/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/uc.micro/categories/Cc/regex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/uc.micro/categories/Cf/regex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/uc.micro/categories/P/regex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/uc.micro/categories/Z/regex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/uc.micro/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/uc.micro/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/node_modules/uc.micro/properties/Any/regex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/src/VueMarkdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../node_modules/vue-markdown/src/build.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../~$设计报告模板.docx" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="f8a8e797-072f-4ecb-b069-e4f75e0c34c1" />
+        <option name="url" value="https://github.com/SonderHZE/myGPT.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/example/demo/Utils/RedisUtil.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\maven\Repository" />
+        <option name="mavenHome" value="D:/maven/apache-maven-3.9.5-bin/apache-maven-3.9.5" />
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.9.5-bin\apache-maven-3.9.5\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2eg0Tw1iZnY48hBMzOghPemaocl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;项目&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;fe01ce2a7fbac8fafaed7c982a04e229&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;mysql&quot;
+    ]
+  }
+}</component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.DemoApplication">
+    <configuration name="DemoApplicationTests" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.DemoApplicationTests" />
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplicationTests.redisTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.example.demo.DemoApplicationTests" />
+      <option name="METHOD_NAME" value="redisTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.DemoApplicationTests" />
+        <item itemvalue="JUnit.DemoApplicationTests.redisTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="686c96bb-7999-4e94-9bcc-0d967f4be4e2" name="更改" comment="" />
+      <created>1712310925857</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712310925857</updated>
+      <workItem from="1712310926936" duration="12940000" />
+      <workItem from="1712374933764" duration="21689000" />
+      <workItem from="1712417810901" duration="115000" />
+      <workItem from="1712418367079" duration="156000" />
+      <workItem from="1712495944803" duration="7219000" />
+      <workItem from="1712505876682" duration="99000" />
+      <workItem from="1712564504187" duration="3901000" />
+      <workItem from="1712631817591" duration="43734000" />
+      <workItem from="1712748532718" duration="11320000" />
+      <workItem from="1712926614159" duration="211000" />
+      <workItem from="1712989584613" duration="21888000" />
+      <workItem from="1713081015771" duration="16789000" />
+      <workItem from="1713757407444" duration="35000" />
+      <workItem from="1713948958648" duration="10046000" />
+      <workItem from="1714054650142" duration="2852000" />
+      <workItem from="1714126137666" duration="7576000" />
+      <workItem from="1714213661758" duration="807000" />
+      <workItem from="1714216720974" duration="4310000" />
+      <workItem from="1714963536811" duration="2056000" />
+      <workItem from="1714966719296" duration="10168000" />
+      <workItem from="1715170208285" duration="25073000" />
+      <workItem from="1715352734533" duration="29000" />
+      <workItem from="1715352771606" duration="20000" />
+      <workItem from="1715352799239" duration="190000" />
+      <workItem from="1715353002939" duration="20000" />
+      <workItem from="1715353041129" duration="16000" />
+      <workItem from="1715353126958" duration="2000" />
+      <workItem from="1715353143472" duration="18000" />
+      <workItem from="1715353210089" duration="24000" />
+      <workItem from="1715353248745" duration="42000" />
+      <workItem from="1715353297664" duration="141000" />
+      <workItem from="1715353447172" duration="161000" />
+      <workItem from="1715353624775" duration="15004000" />
+      <workItem from="1715506982288" duration="1401000" />
+      <workItem from="1715570950984" duration="2653000" />
+    </task>
+    <task id="LOCAL-00001" summary="完成了基本的流式传输，明天首先完善前端请求，做到动态输入userID和sessionID。">
+      <created>1712327364912</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712327364912</updated>
+    </task>
+    <task id="LOCAL-00002" summary="完成了基本的流式传输，明天首先完善前端请求，做到动态输入userID和sessionID。">
+      <created>1712327478840</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712327478840</updated>
+    </task>
+    <task id="LOCAL-00003" summary="完成了基本的流式传输，明天首先完善前端请求，做到动态输入userID和sessionID。">
+      <created>1712327509965</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712327509965</updated>
+    </task>
+    <task id="LOCAL-00004" summary="完成了基本的流式传输，明天首先完善前端请求，做到动态输入userID和sessionID。">
+      <created>1712417884427</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712417884427</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="完成了基本的流式传输，明天首先完善前端请求，做到动态输入userID和sessionID。" />
+    <MESSAGE value="简单demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="简单demo" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/demo/Controller/UserController.java</url>
+          <line>124</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/example/demo/DemoApplicationTests.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/demo/Utils/ChatUtils.java</url>
+          <line>91</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/example/demo/Utils/ChatUtils.java</url>
+          <line>212</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/demo$DemoApplication.ic" NAME="DemoApplication 覆盖结果" MODIFIED="1713103126455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
