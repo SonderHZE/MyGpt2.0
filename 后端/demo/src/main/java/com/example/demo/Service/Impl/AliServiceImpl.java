@@ -32,7 +32,7 @@ public class AliServiceImpl {
     private ChatinfoMapper chatinfoMapper;
 
     static {
-        Constants.apiKey="sk-d4747b14216e4ecc93ffeb5f9a2a4dc1";
+        Constants.apiKey="***";
     }
 
     @Transactional

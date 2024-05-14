@@ -20,8 +20,8 @@ public class BaiduServiceImpl {
     @Autowired
     private ChatinfoMapper chatinfoMapper;
 
-    public static final String API_KEY = "IrwsY0SE5ba9KvhmMXcWzPTS";
-    public static final String SECRET_KEY = "IhqYv5CqzyG1PvKV0YZCvBAO9vDZNH1O";
+    public static final String API_KEY = "***";
+    public static final String SECRET_KEY = "***";
     public static final OkHttpClient HTTP_CLIENT = new OkHttpClient().newBuilder().build();//创建OkHttpClient对象
 
 
